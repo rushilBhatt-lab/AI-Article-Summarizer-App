@@ -1,6 +1,6 @@
 #AI-Article-Summarizer 
 
-<img width="1503" alt="Screenshot 2023-10-20 at 15 19 56" src="https://github.com/rushilBhatt-lab/AI-Article-Summarizer-App/assets/121129252/5ecf97f2-67c6-4500-a738-8a0f4450065c">
+<img width="1503" alt="Screenshot 2023-10-20 at 15 22 14" src="https://github.com/rushilBhatt-lab/AI-Article-Summarizer-App/assets/121129252/3a4935e0-4054-4ccf-ae8e-d5f59b2a1a6e">
 
 
 # Overview
