@@ -15,4 +15,4 @@
 - Tailwind CSS
 - Rapid API
   
-P.S. To run this project one will need his own API key. link to API: https://rapidapi.com/restyler/api/article-extractor-and-summarizer
+P.S. To run this project one will need own API key. link to API: https://rapidapi.com/restyler/api/article-extractor-and-summarizer
