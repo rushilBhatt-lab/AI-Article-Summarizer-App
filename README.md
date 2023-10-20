@@ -13,4 +13,5 @@
 - React + TypeScript + Vite
 - Redux
 - Tailwind CSS
+- Rapid API
   
